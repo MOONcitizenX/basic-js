@@ -22,7 +22,6 @@ const deleteDigit = (n) => {
 			max = currentNum;
 		}
 	}
-
 	return max;
 };
 
